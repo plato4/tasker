@@ -1,3 +1,3 @@
 # tasker
 
-A quick and dirty took for creating a folder structure for Tasks as they come up
+A quick and dirty personal tool for creating a folder structure for Tasks as they come up
